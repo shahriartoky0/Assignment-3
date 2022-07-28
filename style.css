@@ -1,0 +1,9 @@
+.carousel-text-bg {
+    background-color: rgba(247, 243, 243, 0.5);
+    display: flex;
+    flex-direction: column;
+    font-size: 80%;
+    justify-content: space-around;
+    align-items: center;
+    color: black;
+}
